@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4674f345_6aab5710",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2022-06-20T12:57:25Z",
+      "side": 1,
+      "message": "Comment removed by: Sourajit Karmakar; Reason: already pushed https://review.statixos.com/plugins/gitiles/android_system_libhidl/+/refs/heads/sc-v2%5E%21/#F0",
+      "revId": "f248576e972d637e825053df1789781fca1c8c76",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
