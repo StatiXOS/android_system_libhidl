@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b111c7b5_ed7180d5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000047
+      },
+      "writtenOn": "2023-05-10T05:28:58Z",
+      "side": 1,
+      "message": "Move this to hardware/statix/compat\n\nand then patchelf to use libhidllegacy or something.",
+      "revId": "27c6b113adf1f3cb37e2eba7df9368d1fb5cdd23",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
